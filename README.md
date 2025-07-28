@@ -1,0 +1,7 @@
+
+# Code: Analysing Models of Bacterial Selection under Predatory Stress: Parameter Identifiability, Genetic Algorithm-informed Optimal Experimental Design, and Sensitivity
+## Author: Stephen Williams
+
+The code here follows through the calculations present in [DOI]. The files are organised by the concept being explored, and their order follows the sequence in which they are introduced in the text.
+Where possible, the code is presented in the Julia programming language; the author utilised VSCode, along with the Julia plugin, for editing.
+The remainder of the code is executed using Python and MATLAB.
