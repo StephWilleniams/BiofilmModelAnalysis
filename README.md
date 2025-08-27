@@ -1,5 +1,5 @@
 
-# Code: Analysing Models of Bacterial Selection under Predatory Stress: Parameter Identifiability, Genetic Algorithm-informed Optimal Experimental Design, and Sensitivity
+# Code: Identifiability, Sensitivity, and Genetic Algorithms in Bacterial Biofilm Selection Models
 ## Author: Stephen Williams
 
 The code here follows through the calculations present in [DOI]. The files are organised by the concept being explored, and their order follows the sequence in which they are introduced in the text.
